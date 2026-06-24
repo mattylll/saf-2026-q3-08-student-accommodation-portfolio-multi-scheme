@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/saf-2026-q3-08-student-accommodation-portfolio-multi-scheme/sitemap.xml
